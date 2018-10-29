@@ -1,2 +1,2 @@
 # guessGame
-an easy project demo to practise  basic python sytax
+a simple project demo to practise basic python sytax
