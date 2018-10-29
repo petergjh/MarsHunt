@@ -41,10 +41,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1036" />
-    <option name="y" value="655" />
+    <option name="x" value="-1064" />
+    <option name="y" value="453" />
     <option name="width" value="1001" />
-    <option name="height" value="1146" />
+    <option name="height" value="818" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -98,15 +98,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540811580898</updated>
-      <workItem from="1540811582286" duration="256000" />
+      <workItem from="1540811582286" duration="853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256000" />
+    <option name="totallyTimeSpent" value="853000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1036" y="655" width="1001" height="1146" extended-state="0" />
+    <frame x="-1064" y="453" width="1001" height="818" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
